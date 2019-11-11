@@ -1,3 +1,7 @@
 This is a second test file.
 
+
+What happens now?
+
 This is an alteration to the second file.
+
